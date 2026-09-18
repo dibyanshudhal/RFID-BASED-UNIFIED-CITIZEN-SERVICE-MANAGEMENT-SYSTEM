@@ -51,7 +51,7 @@ Each C file is compiled and linked with specific functional responsibilities to 
 </p>
 
 1. Power on the system; it shows the RFID scan prompt.
-2. Present a registered citizen card to open the citizen dashboard.
+2. Place a registered citizen card to open the citizen dashboard.
 3. Use the keypad to view records or use the ATM, voting, and licence services.
 4. Present the officer card for administrative controls.
 5. Unknown cards are rejected with the red LED and buzzer.
