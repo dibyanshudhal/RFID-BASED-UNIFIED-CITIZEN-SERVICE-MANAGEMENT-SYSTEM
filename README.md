@@ -46,6 +46,8 @@ Each C file is compiled and linked with specific functional responsibilities to 
 ## Demonstrated workflow
 
 <p align="center">
+ <img width="369" height="363" alt="Main Program Flow" src="https://github.com/user-attachments/assets/e40fd779-b109-4b36-9e92-b66a205d2581" />
+
  <img width="1600" height="878" alt="WhatsApp Image 2026-09-09 at 10 35 02 AM" src="https://github.com/user-attachments/assets/e56b7281-3ca6-4d62-adc6-b6fe4c506c53" />
  <img width="1600" height="858" alt="WhatsApp Image 2026-09-09 at 10 37 04 AM" src="https://github.com/user-attachments/assets/fa709ad2-a9fd-4413-9e81-31f21835876a" />
 </p>
