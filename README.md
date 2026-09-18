@@ -58,7 +58,6 @@ Each C file is compiled and linked with specific functional responsibilities to 
 ## LCD interface
 <p align="center">
   <img width="1268" height="772" alt="citizen_service_menu" src="https://github.com/user-attachments/assets/4c234ab6-8281-4124-9c2c-67e096568098" />
-  <img width="1599" height="920" alt="Pan" src="https://github.com/user-attachments/assets/ee1c4891-aed1-42ca-906c-1462aaa80ebf" />
   <img width="1280" height="766" alt="ATM_interfcae" src="https://github.com/user-attachments/assets/8e3e2b73-26e0-4027-87b3-6b985dbfd923" />
   <img width="1280" height="785" alt="officer_status" src="https://github.com/user-attachments/assets/c1493aa2-5867-4c3b-ba65-00fe2aa5fd16" />
 
